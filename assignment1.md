@@ -7,6 +7,7 @@ permalink: assignment1.html
 
 ### Submission Deadline: 11 th FEB 2017
 
+[Completion Sheet](https://parulprogramminghub.github.io/assignments/assign1_complete)
 
 1. Write python program to enter length and breadth of rectangle and calculate area and perimeter of rectangle.
 2. Write python program to enter radius of circle and calculate area and circumference of circle.
